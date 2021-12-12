@@ -27,15 +27,6 @@
       "phone": "055636111",
       "date": "11/01/1999",
       "gender": "Femele"
-    },
-    { 
-      "id": "4",
-      "name": "Arwa",
-      "password": "123456",
-      "email": "Arwa@gmail.com",
-      "phone": "053478221",
-      "date": "15/02/1999",
-      "gender": "Femele"
     }
   ]
 }
