@@ -1,0 +1,23 @@
+{
+  "title": "AirLine's Blog",
+  "flights": [
+    { 
+     "id": "1",
+      "name" : "Noura",
+      "noSeats" : "2",
+      "flight": "KSA TO EGYPT 200 SAR",
+    },
+    {
+      "id": "2",
+      "name" : "Ahmed",
+      "noSeats" : "2",
+      "flight": "KSA TO USA 400 SAR",
+    },
+    { 
+      "id": "3",
+      "name" : "Menna",
+      "noSeats" : "1",
+      "flight": "KSA TO UAE 200 SAR",
+    },
+  ]
+}
